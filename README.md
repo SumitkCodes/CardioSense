@@ -1,11 +1,4 @@
-# report link
-https://www.overleaf.com/1913259688rbpmrgjvdrcj#7c9aeb
-
-# Heart Disease Prediction video presentation
-https://drive.google.com/file/d/1KqJ9Lj48AH6X8US3wUg_O1KnSoYlm1oR/view?usp=drivesdk
-
-# Heart disease predictionn app
-https://drive.google.com/drive/folders/1ox5AEEJ_XTLLIS64LUpqehPR9rt6SB58?usp=sharing
+CARDIOSENSE
 
 This project aims to predict the likelihood of heart disease in a patient based on various medical attributes. It includes a machine learning model developed in a Jupyter Notebook and a Flask API to serve predictions.
 
